@@ -1,4 +1,4 @@
 def func2(x):
     return x ** 3
 
-print (func(10))
+print (func2(10))
